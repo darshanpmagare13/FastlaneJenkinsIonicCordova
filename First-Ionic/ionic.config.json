@@ -1,0 +1,7 @@
+{
+  "name": "First-Ionic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular-standalone"
+}
